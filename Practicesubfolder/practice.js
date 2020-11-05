@@ -23,5 +23,6 @@ const display = () => {
         tr += "</tr>";
         tbody.innerHTML += tr;
     }
+    
 }
 // iterate through HTMLAllCollection, pull data from rows, write to console
